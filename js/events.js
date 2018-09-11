@@ -21,9 +21,14 @@ function pressIt(){
   return
 }
 
+function submitIt(){
+  $("form")
+}
+
 $(document).ready(function(){
 
 getIt()
 frameIt()
+pressIt()
 
 });
