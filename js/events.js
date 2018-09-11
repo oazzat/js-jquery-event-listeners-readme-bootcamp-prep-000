@@ -6,7 +6,10 @@ function getIt(){
 }
 
 function frameIt(){
-  
+  $('.tasty').on("load",function(){
+    
+    return
+  })
 }
 
 $(document).ready(function(){
